@@ -2,5 +2,10 @@
   "presets": [
     "env"
   ],
-  "env": {}
+  "env": { "test": {
+    "plugins": [
+      "istanbul"
+    ]
+   }
+  }
 }
