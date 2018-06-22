@@ -1,6 +1,4 @@
-import {Foo} from './Foo.js';
-import {Bar} from './Bar.js';
+import {Foo} from './foo.js';
+import {Bar} from './bar.js';
 
 new Foo(new Bar);
-//new Foo();
-//new Bar();
