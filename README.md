@@ -4,14 +4,12 @@
 
 Web Front Seed, minimal stack for JavaScript Project
 
-### Serve
+## Installation
 
-You can clone this repo and create our project
+Clone the repo
 ```
 git clone https://github.com/cedleg/WFS.git
 ```
-
-## Installation
 Install package
 ```
 npm install
