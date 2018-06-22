@@ -1,7 +1,7 @@
 {
-  "name": "babel-skeleton",
+  "name": "wfs",
   "version": "1.0.0",
-  "description": "Babel skeleton for native app",
+  "description": "JavaScript dev stack",
   "keywords": [],
   "main": "index.html",
   "scripts": {

@@ -1,21 +1,39 @@
 [![Build Status](https://travis-ci.org/cedleg/WFS.svg?branch=master)](https://travis-ci.org/cedleg/WFS)
-
 [![Coverage Status](https://coveralls.io/repos/github/cedleg/WFS/badge.svg?branch=master)](https://coveralls.io/github/cedleg/WFS?branch=master)
 # WFS
 
-Web Front Site Squeleton
+Web Front Seed, minimal stack for JavaScript Project
 
 ### Serve
 
-You can clone this repo and create an android project for build on your device
+You can clone this repo and create our project
 ```
 git clone https://github.com/cedleg/WFS.git
 ```
 
+## Installation
+Install package
 ```
-cd WFS
 npm install
 ```
+## Serve
+Run the application
+```
+npm run global
+```
+## Test
+Pass the tests
+```
+npm run test
+```
+Generate report
+```
+npm run coverage
+```
+
+## Contributing
+
+* Cyril Itchi
 
 ## License
 
@@ -23,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Motivation
 
-* I want to automatized JS starter project
+* Automatized JS project starter
