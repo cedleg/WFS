@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/cedleg/WFS.svg?branch=master)](https://travis-ci.org/cedleg/WFS)
+
+[![Coverage Status](https://coveralls.io/repos/github/cedleg/WFS/badge.svg?branch=master)](https://coveralls.io/github/cedleg/WFS?branch=master)
 # WFS
 
 Web Front Site Squeleton
