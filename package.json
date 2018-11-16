@@ -15,19 +15,19 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "babelify": "latest",
     "babel-plugin-istanbul": "latest",
     "babel-preset-env": "latest",
     "babel-register": "latest",
+    "babelify": "^8.0.0",
     "browser-sync": "latest",
-    "watchify": "latest",
-    "node-sass": "latest",
+    "chai": "latest",
+    "coveralls": "latest",
+    "cross-env": "latest",
     "mocha": "latest",
     "mocha-lcov-reporter": "latest",
+    "node-sass": "latest",
     "nyc": "latest",
-    "chai": "latest",
     "sinon": "latest",
-    "cross-env": "latest",
-    "coveralls": "latest"
+    "watchify": "latest"
   }
 }

@@ -5,12 +5,12 @@ export class Bar{
 		var ctx = canvas.getContext('2d');
 
 		var x = 100,
-    y = 75,
-    // Radii of the white glow.
-    innerRadius = 5,
-    outerRadius = 70,
-    // Radius of the entire circle.
-    radius = 60;
+		y = 75,
+		// Radii of the white glow.
+		innerRadius = 5,
+		outerRadius = 70,
+		// Radius of the entire circle.
+		radius = 60;
 
 		var gradient = ctx.createRadialGradient(x, y, innerRadius, x, y, outerRadius);
 		gradient.addColorStop(0, 'white');
